@@ -10,12 +10,13 @@ Version: 1.0
 
 == Description ==
 
-Plugin allows to create a cool gallery filtered by category.  It's free, easy and fully responsive.
+Plugin allows to create a cool gallery filtered by category.  Free, easy and responsive.
 
 
 == Installation ==
 
-Install plugin and activate it.
+Install plugin and activate it. Create your galleries and include shortcode [efgallery] in your post, page or theme.
+For more details go to FAQ section. 
 
 == Frequently Asked Questions ==
 
@@ -28,7 +29,7 @@ Install plugin and activate it.
 
 = Can I see a demo version? =
 
-Yes, go to: [https://seowp.pl/plugins/easy-filterable-gallery/demo](https://seowp.pl/plugins/easy-filterable-gallery-demo)
+Yes, go to: [https://seowp.pl/plugins/easy-filterable-gallery/demo](https://seowp.pl/plugins/easy-filterable-gallery/demo)
 
 
 = Why do I need this plugin? =
